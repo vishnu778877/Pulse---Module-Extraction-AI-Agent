@@ -1,0 +1,318 @@
+[
+  {
+    "Documentation": {
+      "Description": "",
+      "Submodules": {
+        "WordPress overview": "Learn about WordPress and its community.",
+        "Technical guides": "Learn how to install WordPress and keep it secure and healthy.",
+        "Support guides": "Get to know how to publish with WordPress.",
+        "Customization": "Get the look and feel you want on your site.",
+        "Get more help": "Support forums"
+      }
+    }
+  },
+  {
+    "Meet WordPress": {
+      "Description": "The open source publishing platform of choice for millions of websites worldwide\u2014from creators and small businesses to enterprises.",
+      "Submodules": {
+        "Design": "Create any website with flexible design tools and the power ofblocks. Start with a blank canvas or choose atheme. Customize every detail\u2014no code needed.",
+        "Build": "See how your site will look in real time, even as you add, edit, and rearrange content\u2014with intuitive editing and integrated features to manage it all.",
+        "Extend": "Make your site do whatever you need it to. Add a store, analytics, newsletter, social media integration; you\u2019re in control with an extensive library ofplugins.",
+        "See what's new": "And let the newly structured Style Book help you get the best view. Easier to use in Block themes, it\u2019s also a great way to see what you\u2019re building in certain Classic themes. Do It all faster with improvements under the hood, and more securely than ever with stronger password hashing.",
+        "One platform, a universe of possibilities": "Discover a collection of website examples from around the world, curated to spotlight gorgeous design, technical innovation, and the limitless power of WordPress.",
+        "Meet the WordPress community": "Behind the technology is a diverse collective of people collaborating and gathering from around the world. We hold regular events with opportunities to learn more about WordPress and the latest tech trends, connect with fellow industry experts, and foster your professional growth.",
+        "Build for yourself, not by yourself": "Whether you\u2019re an entrepreneur, professional developer, or first-time blogger, there\u2019s a library of resources and learning tools ready for you. Plus, you have the whole WordPress community in your corner.",
+        "Latest WordPress news": "More news",
+        "Get started": "Find everything you need to get started, download the platform, find hosting, and more\u2014whether it\u2019s your first site or your ninety-first site."
+      }
+    }
+  },
+  {
+    "Five for the Future": {
+      "Description": "Commit to the future of WordPress and the open web.",
+      "Submodules": {
+        "Take your seat at the table": "Organizations that participate in Five for the Future play a key role in shaping the future of WordPress. Your contributions can translate that effort into a direct and meaningful impact on your business and beyond. Explore theFive for the Future handbookto learn more about the program. Looking for inspiration? Take a look at organizationscontributing timeandsponsoring resourcesto keep the project going.",
+        "Gain a strategic advantage": "Sync your business objectives with WordPress\u2019s development to stay current with platform trends, and get early insight into WordPress releases to inform your product decisions.",
+        "Recruit and develop top talent": "Connect with a global network of professionals who already contribute to open source. By sponsoring their contributions, you\u2019ll also provide existing teams with cost-effective, hands-on professional development opportunities.",
+        "Represent your and your client\u2019s needs": "Represent your customers\u2019 or clients\u2019 perspectives within the WordPress community. As you contribute and provide expertise, you\u2019ll gain the recognition to influence key decisions.",
+        "Extend your expertise across WordPress": "The WordPress project is uniquely set up to benefit from contributing teams across all disciplines. Along with development and technical expertise, here are some other focus areas your organization can contribute to:",
+        "Shape the future of WordPress": "Become a Five for the Future participant.",
+        "Driving WordPress Forward": "Salesforce donates around $8.8 million USD to WordPress.org every year by supporting the Make/WordPress Slack instance, the main platform for real-time communication within the WordPress project.Read moreabout their contribution."
+      }
+    }
+  },
+  {
+    "Patterns": {
+      "Description": "Add a beautiful, ready-to-go layout to any WordPress site with a simple copy/paste.",
+      "Submodules": {
+        "Filter": "",
+        "Sort": ""
+      }
+    },
+    "All patterns": {
+      "Description": "",
+      "Submodules": {
+        "Intro area with heading and image": "",
+        "Centered image with two-tone background color": "",
+        "Fullwidth Dark Banner with Heading Top Left": "",
+        "Fullwidth cover with repeating gradient text": "",
+        "Fullwidth, vertically aligned headline on right with description on left": "",
+        "Fullwidth headline with links and gradient offset background": "",
+        "Heading, Paragraph, Button with Two Images": "",
+        "Bold sale banner with geometric background": "",
+        "Offset bold paragraph text with varying opacity": "",
+        "Offset text with a brutalist design vibe": "",
+        "Fullscreen image with right content area": "",
+        "Cover Image with Bold Heading and Button, Left": "",
+        "Cover Image with Bold Heading and Button": "",
+        "Fullscreen cover image gallery": "",
+        "Fullwidth posts with uppercase titles": "",
+        "Fullwidth posts titles with dates": "",
+        "Header inside full-width background image": "",
+        "Simple header with dark background": "",
+        "Text-only header with tagline": "",
+        "Simple header with tagline": "",
+        "Fullwidth site title and menu button": "",
+        "Fullwidth header with hero image": "",
+        "Centered header with logo": "",
+        "Fullwidth header with large font size": "",
+        "What\u2019s a pattern?": "A block pattern is a collection of blocks you can insert into your site and customize with your own content. Patterns save you time when composing pages of any kind and are a great way to learn how blocks can be combined to achieve specific layouts.",
+        "Share your patterns": "Showcase your creations and make them publicly available in the Block Pattern Directory. Submitting a pattern to the directory means it can be referenced in themes and easily reused across sites\u2014without requiring theme authors to bundle pattern code with each theme."
+      }
+    }
+  },
+  {
+    "Plugins": {
+      "Description": "Extend your WordPress experience! Browse over 59,000 free plugins.",
+      "Submodules": {
+        "Block-Enabled plugins": "The Ultimate WordPress Portfolio Plugin to Showcase Your Work in Style",
+        "Featured plugins": "The best anti-spam protection to block spam comments and spam in a contact form. The most trusted antispam solution for WordPress and WooCommerce.",
+        "Beta plugins": "The Gutenberg plugin adds editing, customization, and site building to WordPress. Use it to test beta features before their official release.",
+        "Popular plugins": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+        "Add your plugin": "",
+        "Create a plugin": "",
+        "Stay up-to-date": ""
+      }
+    }
+  },
+  {
+    "Themes": {
+      "Description": "Over 13,000 free themes to customize your WordPress site.",
+      "Submodules": {
+        "Layout": "",
+        "Features": "",
+        "Subjects": "",
+        "Twenty Twenty-Five": "",
+        "Twenty Twenty-Four": "",
+        "Hello Elementor": "",
+        "Astra": "",
+        "Twenty Twenty-Three": "",
+        "Twenty Twenty-Two": "",
+        "Kadence": "",
+        "Twenty Twenty-One": "",
+        "OceanWP": "",
+        "GeneratePress": "",
+        "Twenty Twenty": "",
+        "Twenty Seventeen": "",
+        "Add your theme": "The WordPress theme directory is used by millions of WordPress users all over the world.Submit your themeto the official WordPress.org theme repository.",
+        "Create a theme": "Want to learn how to build a great theme? Read theTheme Developer Handbookto learn everything about WordPress theme development.",
+        "Stay up-to-date": "Trying to ensure a great experience for the theme authors and users, means that theme requirements change from time to time. Keep up with the latest changes by following theThemes Team blog."
+      }
+    }
+  },
+  {
+    "Showcase": {
+      "Description": "The best websites, built with WordPress.",
+      "Submodules": {
+        "Popular tags": "",
+        "Categories": "",
+        "Flavors": "",
+        "Featured sites": "",
+        "View all sites": "",
+        "Feeling inspired?": "Start building a website you love on the open source platform that powers the web.",
+        "Want to be featured?": "Join other beautifully designed sites in the WordPress Showcase by filling out this form."
+      }
+    }
+  },
+  {
+    "Privacy policy": {
+      "Description": "WordPress.org websites (collectively \u201cWordPress.org\u201d in this document) refer to sites hosted on the WordPress.org, WordPress.net, WordCamp.org, BuddyPress.org, bbPress.org, and other related domains and subdomains thereof. This privacy policy describes how WordPress.org uses and protects any information that you give us. We are committed to ensuring that your privacy is protected. If you provide us with personal information through WordPress.org, you can be assured that it will only be used in accordance with this privacy statement.",
+      "Submodules": {
+        "Website visitors": "Like most website operators, WordPress.org collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. WordPress.org\u2019s purpose in collecting non-personally identifying information is to better understand how WordPress.org\u2019s visitors use its website. From time to time, WordPress.org may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.",
+        "Gathering of personally-identifying information": "Certain visitors to WordPress.org choose to interact with WordPress.org in ways that require WordPress.org to gather personally-identifying information. The amount and type of information that WordPress.org gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address.",
+        "Protection of certain personally-identifying information": "WordPress.org discloses potentially personally-identifying and personally-identifying information only to those of project administrators, employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on WordPress.org\u2019s behalf or to provide services available through WordPress.org, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using WordPress.org, you consent to the transfer of such information to them.",
+        "Use of personal information": "We will not use the information you provide when you register for an account, attend our events, receive newsletters, use certain other services, or participate in the WordPress open source project in any other way.",
+        "Legal grounds for processing personal information": "We rely on one or more of the following processing conditions:",
+        "Access to data": "You have the right to request a copy of the information we hold about you. If you would like a copy of some or all your personal information, please follow the instructions at the end of this section.",
+        "Retention of personal information": "We will retain your personal information on our systems only for as long as we need to, for the success of the WordPress open source project and the programs that support WordPress.org. We keep contact information (such as mailing list information) until a user unsubscribes or requests that we delete that information from our live systems. If you choose to unsubscribe from a mailing list, we may keep certain limited information about you so that we may honor your request.",
+        "Rights in relation to your information": "You may have certain rights under data protection law in relation to the personal information we hold about you. In particular, you may have a right to:",
+        "Third party links": "Our website may contain links to other websites provided by third parties not under our control. When following a link and providing information to a 3rd-party website, please be aware that we are not responsible for the data provided to that third party. This privacy policy only applies to the websites listed at the beginning of this document, so when you visit other websites, even when you click on a link posted on WordPress.org, you should read their own privacy policies.",
+        "Aggregated statistics": "WordPress.org may collect statistics about the behavior of visitors to its websites. For instance, WordPress.org may reveal how many times a particular version of WordPress was downloaded or report on which plugins are the most popular, based on data gathered byapi.wordpress.org, a web service used by WordPress installations to check for new versions of WordPress and plugins. However, WordPress.org does not disclose personally-identifying information other than as described in this policy.",
+        "Cookies": "Additionally, information about how you use our website is collected automatically using \u201ccookies\u201d. Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity.",
+        "Privacy policy changes": "Although most changes are likely to be minor, WordPress.org may change its Privacy Policy from time to time, and at WordPress.org\u2019s sole discretion. WordPress.org encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.",
+        "Contact": "Please note we cannot provide help or information about other websites, including those which may run on WordPress open source software but are hosted by third parties."
+      }
+    }
+  },
+  {
+    "WordPress Hosting": {
+      "Description": "Get web hosting from some of the best providers",
+      "Submodules": {
+        "Pressable": "Pressable delivers reliable, scalable WordPress hosting that empowers businesses and agencies to grow with confidence. Built on the powerful WP Cloud platform by Automattic, Pressable ensures your WordPress sites run smoothly, securely, and with unmatched performance. Whether you're managing a single site or thousands, our 24/7 expert support and seamless hosting experience allow you to focus on what matters most - your business. From free staging environments to automatic backups and global edge caching, we take care of the heavy lifting so you can create, build, and grow with peace of mind.",
+        "Bluehost": "Bluehost is WordPress.org's longest running recommended host and offers the ultimate WordPress platform that powers millions of websites. Their shared hosting is benchmarked as delivering best-in-class performance, and for those that demand the fastest speed, 100% uptime and expert support, Bluehost Cloud Hosting offers unmatched power. No matter the solution you choose, you'll get WordPress pre-installed, an AI site builder, free domain name, email, SSL, built-in CDN and more. From blogs, business sites, and online stores, build any kind of website on an easily scalable WordPress-optimized platform backed by legendary 24/7 support by in-house WordPress experts.",
+        "Hostinger": "Hostinger, trusted by more than 2.5 million clients worldwide, offers fast and secure managed WordPress hosting. Enjoy seamless WordPress experience with a 1-click installer, free domain and SSL, LiteSpeed and object cache for a faster website, and built-in CDN. Focusing on user security, experience and performance, it's an ideal solution for beginners and experts alike. Get smooth, value-driven hosting, backed by 24/7 support of WordPress experts, with Hostinger.",
+        "Host Feedback": "We\u2019re committed to helping create a wholesome and hassle-free WordPress hosting environment. If you feel there are issues with one of\n\t\t\t\t\t\tthe hosts listed here, please send a note to hosting dash feedback at this domain. If the situation warrants we\u2019ll work with you and\n\t\t\t\t\t\tyour host on a solution.",
+        "Be Listed on This Page": "We\u2019ll be looking at this list several times a year, so keep an eye out for us re-opening the survey for hosts to submit themselves for inclusion.\n\t\t\t\t\t\tListing is completely arbitrary, but includes criteria like: contributions to WordPress.org, size of customer base, ease of WP auto-install and auto-upgrades, avoiding GPL violations, design, tone, historical perception, using the correct logo, capitalizing WordPress correctly, not blaming us if you have a security issue, and up-to-date system software."
+      }
+    }
+  },
+  {
+    "News": {
+      "Description": "",
+      "Submodules": {
+        "Latest Release": "See All Releases",
+        "Latest Posts": "See All Posts",
+        "People of WordPress": "See All People",
+        "Get the Latest Updates": "There\u2019sa development blogand you can track active development in theTrac timelinethat often has 20\u201330 updates per day."
+      }
+    }
+  },
+  {
+    "democratizepublishing": {
+      "Description": "the freedom to build.the freedom to change.the freedom to\u00a0share.",
+      "Submodules": {
+        "our story": "WordPress started in 2003 when Mike Little and Matt Mullenweg created a fork of b2/cafelog. The need for an elegant, well-architected personal publishing system was clear even then. Today, WordPress is built on PHP and MySQL, and licensed under the GPLv2. It is also the platform of choice for over 43% of all sites across the web.",
+        "our mission": "We believe great software should work with minimum set up, emphasizing accessibility, performance, security, and ease of use. The basic WordPress software is simple and predictable, offering powerful features for growth and success.",
+        "the four freedoms": "WordPress is licensed under theGeneral Public License(GPLv2 or later) which provides four core freedoms:",
+        "the technology": "Learn about WordPress, where it\u2019s been, and where it\u2019s going.",
+        "the details": "Dive into the background details, like the GPL and other policies.",
+        "the people": "Learn about the community, how we get along and show our pride."
+      }
+    }
+  },
+  {
+    "Community": {
+      "Description": "",
+      "Submodules": {
+        "WordPress Community Creates 1,000 Block Themes in 1,000 Days": "",
+        "Expanding Our Code of Conduct to Protect Private Conversations": "",
+        "WordPress Thanks Salesforce": "",
+        "WP Engine Reprieve": "",
+        "WP Engine is banned from WordPress.org": "",
+        "WP Engine is not WordPress": "",
+        "People of WordPress: Sunita Rai": "",
+        "People of WordPress: Artemy Kaydash": "",
+        "People of WordPress: Ihtisham Zahoor": "",
+        "People of WordPress: Allison Dye": "",
+        "People of WordPress: Stefano Cassone": "",
+        "Celebrating 20 Years of WordPress": "",
+        "Let\u2019s Party: Organize your WP20 Celebration!": "",
+        "People of WordPress: Hauwa Abashiya": "",
+        "People of WordPress: Huanyi Chuang": "",
+        "People of WordPress: Raghavendra Satish Peri": "",
+        "People of WordPress: Bud Kraus": "",
+        "People of WordPress: Carla Doria": "",
+        "People of WordPress: Leo Gopal": "",
+        "People of WordPress: Dee Teal": "",
+        "Get the Latest Updates": "There\u2019sa development blogand you can track active development in theTrac timelinethat often has 20\u201330 updates per day."
+      }
+    }
+  },
+  {
+    "WP BriefingPODCAST": {
+      "Description": "Learn about where WordPress is going, how we\u2019ll get there, and how you can get involved.",
+      "Submodules": {
+        "Episode 86: My First WordPress Experience": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 85: WordPress in Education": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 84: A WordPress 6.6 Sneak Peek": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 83: Learning Pathways": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 82: WCEU Hallway Track": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 81: It\u2019s your first WordCamp? Welcome!": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 80: Unlocking Your WordPress Potential with Learn WordPress Tools": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 79: Why Start a WordPress Media Corps (and Why Now?)": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 78: Guided Growth: Cultivating Contributors Through Mentorship": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 77: Let\u2019s Talk About Data Liberation": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Get the Latest Updates": "There\u2019sa development blogand you can track active development in theTrac timelinethat often has 20\u201330 updates per day."
+      }
+    }
+  },
+  {
+    "WP BriefingPODCAST": {
+      "Description": "Learn about where WordPress is going, how we\u2019ll get there, and how you can get involved.",
+      "Submodules": {
+        "Episode 76: A WordPress 6.5 Sneak Peek": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 75: WordCamp Asia 2024 Unwrapped": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 74: Kickstart (Or Level-Up) Your Contributor Journey": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 73: Inside the Interactivity API": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 72: Why Your Website Matters": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 71: New Year, New Blog!": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 70: A Look Ahead at WordPress in 2024": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 69: Reflections on State of the Word": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 68: Toward a More Interconnected Web": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Episode 67: Openverse & Photo Directory Rewind": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+        "Get the Latest Updates": "There\u2019sa development blogand you can track active development in theTrac timelinethat often has 20\u201330 updates per day."
+      }
+    }
+  },
+  {
+    "Episode 70: A Look Ahead at WordPress in 2024": {
+      "Description": "Subscribe:Apple Podcasts|Google Podcasts|PocketCasts|RSS|Spotify|Stitcher",
+      "Submodules": {
+        "Credits": "Host:Josepha Haden ChomphosyEditor:Dustin HartzlerLogo:Javier ArceProduction:Brett McSherrySong: Fearless First by Kevin MacLeod",
+        "Show Notes": "",
+        "Transcripts": "[00:00:00]Josepha:Hello, everyone, and welcome to the WordPress Briefing, the podcast where you can catch quick explanations of the ideas behind the WordPress open source project, some insight into the community that supports it, and get a small list of big things coming up in the next two weeks. I\u2019m your host, Josepha Haden Chomphosy. Here we go.",
+        "Get the Latest Updates": "Email Address"
+      }
+    }
+  },
+  {
+    "Updates": {
+      "Description": "",
+      "Submodules": {
+        "WordPress Community Creates 1,000 Block Themes in 1,000 Days": "In nearly 1,000 days, the WordPress community has created 1,000 Block themes\u2014coming together to use the full potential of the Site Editor and unleash new creative possibilities for everyone.",
+        "WP Engine Reprieve": "I\u2019ve heard from WP Engine customers that they are frustrated that WP Engine hasn\u2019t been able to make updates, plugin directory, theme directory, and Openverse work on their sites. It saddens me that they\u2019ve been negatively impacted by Silver Lake\u2018s commercial decisions. On WP Engine\u2019s homepage, they promise \u201cUnmatched performance, automated updates, and bulletproof security\u2026",
+        "WP Engine is banned from WordPress.org": "Pending their legal claims and litigation against WordPress.org, WP Engine no longer has free access to WordPress.org\u2019s resources.",
+        "How WordPress Is Creating a Faster Web": "WordPress\u2019s massive reach of over 40% of the web comes with a similarly large responsibility. Read about what the WordPress project is doing to enhance performance for its users and the web.",
+        "Alert: WordPress Security Team Impersonation Scams": "The WordPress Security Team is aware of multiple ongoing phishing scams impersonating both the \u201cWordPress team\u201d and the \u201cWordPress Security Team\u201c in an attempt to convince administrators to install a plugin on their website which contains malware. The WordPress Security Team will never email you requesting that you install a plugin or theme on your\u2026",
+        "Introducing the WordPress Developer Blog": "The WordPr Developer blog, a dedicated space to support devs, is available to help ideas sharing, ways of using new features, and more.",
+        "Dropping security updates for WordPress versions 3.7 through 4.0": "As of December 1, 2022 the WordPress Security Team will no longer provide security updates for WordPress versions 3.7 through 4.0. These versions of WordPress were first released eight or more years ago so the vast majority of WordPress installations run a more recent version of WordPress. The chances this will affect your site, or\u2026",
+        "Join us for WordPress Translation Day Global Events in September 2021": "WordPress contributors around the world are celebrating the sixth Global WordPress Translation Day throughout September 2021!",
+        "An Update on the Classic Editor Plugin": "Before the release of WordPress 5.0 in 2018, the Classic Editor plugin was published to help ease the transition to the new block editor. At the time, we promised to support the plugin through 2021 and adjust if needed as the deadline got closer. After discussing this with Matt, it\u2019s clear that continuing to support\u2026",
+        "A New Design is Coming to WordPress News": "After many years of a tidy, white-space filled design on WordPress.org/news it\u2019s time to bring new life to the way we present our content. So much has changed since this site was first created: the people who read it, the type and variety of what is published, even the way WordPress works has changed. Which\u2026",
+        "Get the Latest Updates": "There\u2019sa development blogand you can track active development in theTrac timelinethat often has 20\u201330 updates per day."
+      }
+    }
+  },
+  {
+    "An Update on the Classic Editor Plugin": {
+      "Description": "Before the release of WordPress 5.0 in 2018, theClassic Editor pluginwas published to help ease the transition to the new block editor. At the time, we promised to support the plugin through 2021 and adjust if needed as the deadline got closer. After discussing this with Matt, it\u2019s clear that continuing to support the plugin through 2022 is the right call for the project as well as the community.",
+      "Submodules": {
+        "Get the Latest Updates": "Email Address"
+      }
+    }
+  },
+  {
+    "Classic Editor": {
+      "Description": "",
+      "Submodules": {
+        "Description": "Classic Editor is an official plugin maintained by the WordPress team that restores the previous (\u201cclassic\u201d) WordPress editor and the \u201cEdit Post\u201d screen. It makes it possible to use plugins that extend that screen, add old-style meta boxes, or otherwise depend on the previous editor.",
+        "Screenshots": "",
+        "FAQ": "When activated and when using a classic (non-block) theme, this plugin will restore the previous (\u201cclassic\u201d) WordPress editor and hide the new block editor (\u201cGutenberg\u201d).These settings can be changed at the Settings => Writing screen.",
+        "Reviews": "",
+        "Contributors & Developers": "\u201cClassic Editor\u201d is open source software. The following people have contributed to this plugin.",
+        "Changelog": "Fixed a bug where it may attempt to load the block editor for post types that do not support editor when users are allowed to switch editors.",
+        "Community plugin": "This plugin is developed and supported by a community.Contribute to this plugin",
+        "Meta": "Afrikaans,Albanian,Arabic,Asturian,Azerbaijani,Basque,Bulgarian,Catalan,Catalan (Valencian),Chinese (China),Chinese (Hong Kong),Chinese (Taiwan),Croatian,Czech,Danish,Dutch,Dutch (Belgium),English (Australia),English (Canada),English (New Zealand),English (South Africa),English (UK),English (US),French (Belgium),French (Canada),French (France),Galician,Georgian,German,German (Austria),German (Switzerland),Greek,Hebrew,Hungarian,Indonesian,Italian,Japanese,Korean,Kurdish (Sorani),Kyrgyz,Lithuanian,Lower Sorbian,Luganda,Marathi,Norwegian (Bokm\u00e5l),Persian,Persian (Afghanistan),Polish,Portuguese (Angola),Portuguese (Brazil),Portuguese (Portugal),Romanian,Russian,Serbian,Sindhi,Slovak,Somali,Spanish (Argentina),Spanish (Chile),Spanish (Colombia),Spanish (Costa Rica),Spanish (Ecuador),Spanish (Mexico),Spanish (Spain),Spanish (Venezuela),Swedish,Thai,Tibetan,Turkish,Uighur,Ukrainian,Upper Sorbian,Vietnamese, andWelsh.",
+        "Ratings": "Add my review",
+        "Contributors": "",
+        "Support": "Issues resolved in last two months:"
+      }
+    }
+  },
+  {
+    "[Classic Editor] Reviews": {
+      "Description": "You are currently viewing the reviews that provided a rating of2 stars.See all reviews.",
+      "Submodules": {}
+    }
+  }
+]
