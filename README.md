@@ -72,8 +72,13 @@ Example Output:
 ## 📂 Folder Structure
 pulse_ai_module_extractor/
 ├── app.py
-├── crawler.py
+
+├── crawler.py 
+
 ├── extractor.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── venv/ (virtual environment - not uploaded to GitHub)
